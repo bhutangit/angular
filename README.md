@@ -1,16 +1,15 @@
-# Angular Crash Course (TodoList)
+# Todoapp
 
-This is the code for the crash course on YouTube
+This project is part of Platzi's Angular course. Is a simple to-do app and uses localstorage to store information.
 
-## Quick Start
+## Development server
 
-```bash
-# Install dependencies
-npm install
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-# Serve on localhost:4200
-ng serve
+## Build
 
-# Build for production
-ng build
-```
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Deploy
+
+The result is displayed in Firebase at the url [https://todoapp-angular-7ad37.web.app](https://todoapp-angular-7ad37.web.app)
